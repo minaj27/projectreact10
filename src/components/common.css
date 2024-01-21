@@ -1,0 +1,11 @@
+.super{
+    margin: 10px;
+    padding: 10px;
+}
+.main{
+    padding: 25px;
+    border: 3px solid blue;
+    border-radius: 20px;
+    margin: 0px 0px 10px 0px;
+    background-color: gray;
+}
